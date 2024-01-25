@@ -1,1 +1,6 @@
-#Nmaste React 🚀
+# Nmaste React 🚀
+
+# Parcel
+
+- Dev Build
+- Local Server
