@@ -1,0 +1,27 @@
+{
+  "name": "episode-01-inception",
+  "version": "1.0.0",
+  "description": "Namaste react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshi-durgesh/react-Episode-1-Inception.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "durgesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshi-durgesh/react-Episode-1-Inception/issues"
+  },
+  "homepage": "https://github.com/joshi-durgesh/react-Episode-1-Inception#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}

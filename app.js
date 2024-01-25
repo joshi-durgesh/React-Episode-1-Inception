@@ -22,5 +22,7 @@ const parent = React.createElement("div", { id: "parent" }, [
     React.createElement("h2", {}, "This is h2 element"),
   ]),
 ]);
+
+console.log(parent); //this will return object
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
